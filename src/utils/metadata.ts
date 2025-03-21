@@ -16,7 +16,7 @@ interface MetadataProps {
 }
 
 export const generateMetadata = ({
-    title = `Vetra - AI-Powered Project Management & Team Collaboration`,
+    title = `BEEJ`,
     description = `Vetra is an intelligent project management platform that transforms how teams work together. Leverage AI to automate workflows, enhance collaboration, and boost productivity. Experience smarter project management today.`,
     icons = [
         {
