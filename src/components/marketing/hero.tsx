@@ -5,6 +5,10 @@ import Container from "../global/container";
 import Icons from "../global/icons";
 import { Button } from "../ui/button";
 import { OrbitingCircles } from "../ui/orbiting-circles";
+import Dashboard from "@/app/(marketing)/dashboard";
+
+
+
 
 const Hero = () => {
     return (
