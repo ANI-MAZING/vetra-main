@@ -84,7 +84,7 @@ const Hero = () => {
                             <div className="absolute top-1/8 left-1/2 -z-10 bg-gradient-to-r from-lime-500 to-green-600 w-1/2 lg:w-3/4 -translate-x-1/2 h-1/4 -translate-y-1/2 inset-0 blur-[4rem] lg:blur-[10rem] animate-image-glow"></div>
                             <div className="hidden lg:block absolute -top-1/8 left-1/2 -z-20 bg-green-600 w-1/4 -translate-x-1/2 h-1/4 -translate-y-1/2 inset-0 blur-[10rem] animate-image-glow"></div>
 
-                            {/* <div className="rounded-lg lg:rounded-[22px] border border-border bg-background">
+                            <div className="rounded-lg lg:rounded-[22px] border border-border bg-background">
                                 <Image
                                     src=""
                                     alt="dashboard"
@@ -92,7 +92,7 @@ const Hero = () => {
                                     height={800}
                                     className="rounded-lg lg:rounded-[20px]"
                                 />
-                            </div> */}
+                            </div>
 
                         </div>
                         <div className="bg-gradient-to-t  absolute bottom-0 inset-x-0 w-full h-1/2"></div>
