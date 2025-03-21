@@ -86,16 +86,16 @@ const Hero = () => {
 
                             <div className="rounded-lg lg:rounded-[22px] border border-border bg-background">
                                 <Image
-                                    src="/images/dashboard.png"
+                                    src=""
                                     alt="dashboard"
                                     width={1920}
-                                    height={1080}
+                                    height={800}
                                     className="rounded-lg lg:rounded-[20px]"
                                 />
                             </div>
 
                         </div>
-                        <div className="bg-gradient-to-t from-background to-transparent absolute bottom-0 inset-x-0 w-full h-1/2"></div>
+                        <div className="bg-gradient-to-t  absolute bottom-0 inset-x-0 w-full h-1/2"></div>
                     </Container>
 
                 </div>
