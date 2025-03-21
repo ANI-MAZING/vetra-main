@@ -2,26 +2,26 @@ import {
     ChartColumnBigIcon,
     DatabaseIcon,
     TrendingUpIcon,
-    WandSparklesIcon,
+    Bean,
     ZapIcon
 } from "lucide-react";
 
 export const FEATURES = [
     {
-        title: "Enhance User Experience",
-        description: "Efficiently manage user data and interactions with advanced AI tools",
-        icon: WandSparklesIcon,
+        title: "Nutrition & Planning",
+        description: "Get personalized nutrition plans and track your harvest.",
+        icon: Bean,
         image: "/images/feature-two.svg",
     },
     {
-        title: "Comprehensive Insights",
-        description: "Gain deep insights into your audience and campaign performance",
+        title: "Monitoring & Insights",
+        description: "Enhance your diagnosis capabiry to decide right and faster.",
         icon: ChartColumnBigIcon,
         image: "/images/feature-one.svg",
     },
     {
-        title: "Data Management",
-        description: "Manage your data with ease and efficiency",
+        title: "Integrations",
+        description: "User-friendly interface where farmers can upload soil images, get crop suggestions, and track climate insights easily.",
         icon: DatabaseIcon,
         image: "/images/feature-three.svg",
     },
@@ -32,8 +32,8 @@ export const FEATURES = [
         image: "/images/feature-four.svg",
     },
     {
-        title: "Dynamic Optimization",
-        description: "AI-powered optimization for smarter marketing",
+        title: "Cost Optimization",
+        description: "Keep the cost per Hectare under control.",
         icon: ZapIcon,
         image: "/images/feature-five.svg",
     }

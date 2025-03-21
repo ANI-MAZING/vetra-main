@@ -1,6 +1,6 @@
 export const NAV_LINKS = [
     {
-        name: "Pricing",
+        name: "About",
         href: "#"
     },
     {
@@ -8,7 +8,7 @@ export const NAV_LINKS = [
         href: "#"
     },
     {
-        name: "Blog",
+        name: "FAQ",
         href: "#"
     },
     {

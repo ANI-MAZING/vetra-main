@@ -12,12 +12,12 @@ const HomePage = () => {
     return (
         <Wrapper className="py-20 relative">
             <Hero />
-            <Companies />
+            {/* <Companies /> */}
             <Features />
             <Analysis />
-            <Integration />
+            {/* <Integration /> */}
             <Pricing />
-            <LanguageSupport />
+            {/* <LanguageSupport /> */}
             <CTA />
         </Wrapper>
     )
